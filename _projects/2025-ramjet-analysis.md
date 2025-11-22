@@ -14,7 +14,8 @@ Unlike more typical jet engines, turbojets or turbofans, ramjet engines do not u
 The now compressed air reaches the combustor at subsonic speeds after exiting the diffuser. Here, a small amount of fuel is burned to increase the temperature of the air. The mass flow of fuel per time into the combustor is much smaller than that of the air. From the NASA Glenn Research Center page on ramjet thrust, around 100 lbs/s of air enters the combustor compared to 2 lbs/s of fuel in a typical ramjet ([NASA GRC Ramjet Thrust](https://www.grc.nasa.gov/www/k-12/airplane/ramth.html)). The ramjet combustion cycle has some similarities to a Brayton cylce. In both, air is compressed in some way, then enters a combuster where burning fuel increases its temperature, and finally exits in some sort of exhaust. These are both open cycles, but differ in the way they compress inlet air, and in their exhaust mechanism and purpose. 
 
 
-Finally, the hot, high pressure air reaches a converging-diverging nozzle. This accelerates the air to supersonic speeds greater than the air's inlet speed. This creates thrust, which we can model with the thrust equation $` F_{thrust} = (\frac{dm}{dt} \cdot v_e) - (\frac{dm}{dt} \cdot v_i) + (p_e - p_i) \cdot A_e `$. $7 + 7$
+Finally, the hot, high pressure air reaches a converging-diverging nozzle. This accelerates the air to supersonic speeds greater than the air's inlet speed. This creates thrust, which we can model with the thrust equation `F_{thrust} = (\frac{dm}{dt} \cdot v_e) - (\frac{dm}{dt} \cdot v_i) + (p_e - p_i) \cdot A_e` . $7 + 7$ $`7 + 7`$ 7 + 7 $$7 + 7$$ $7 + 7$
+$`\sqrt{3x-1}+(1+x)^2`$
 
 
 Section 1: Diffuser and shockwave and ram effect
