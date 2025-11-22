@@ -15,7 +15,7 @@ The now compressed air reaches the combustor at subsonic speeds after exiting th
 
 
 Finally, the hot, high pressure air reaches a converging-diverging nozzle. This accelerates the air to supersonic speeds greater than the air's inlet speed. This creates thrust, which we can model with the thrust equation `F_{thrust} = (\frac{dm}{dt} \cdot v_e) - (\frac{dm}{dt} \cdot v_i) + (p_e - p_i) \cdot A_e` . $7 + 7$ $`7 + 7`$ 7 + 7 $$7 + 7$$ $7 + 7$
-$`\sqrt{3x-1}+(1+x)^2`$
+\$`\sqrt{3x-1}+(1+x)^2`\$
 
 
 Section 1: Diffuser and shockwave and ram effect
