@@ -8,6 +8,9 @@ image: /assets/images/ramjet-diagram.jpg
 
 A ramjet is a type of jet engine designed for high supersonic speeds. Similar to a subsonic turbojet, ramjets include a conbustor driven by a Brayton Cycle, followed by a nozzle that accelerates air out of the engine and produces thrust. However, ramjets differ from turbojets in that they do not include a compressor, nor a turbine to drive it, to compress inlet air. Instead, inlet air is compressed by a diffuser, taking advantage of the ram effect and the shockwave created by the engine hitting air at supersonic speeds to slow down and increase the pressure of inlet air. The drawback of this is that ramjets cannot operate nearly as efficiently at lower, subsonic speeds, like those present of takeoff and landing. Aircraft or missiles that use a ramjet engine must first be accelerated to supersonic speeds by a rocket or other propulsion system. 
 
+Put in a diffuser diagram that I am gonna draw.
+Unlike more typical jet engines, turbojets or turbofans, ramjet engines do not use a compressor to slow incoming air down to speeds needed for combustion. Instead, in a diffuser, air moving a high velocities crashes into the engine, slowing down below Mach 1, and increasing in pressure. This diffuser essentially converts kinetic energy of inlet air into greater enthalpy and higher pressure. 
+
 Section 1: Diffuser and shockwave and ram effect
 
 Section 2: Combustion and Brayton Cycle
