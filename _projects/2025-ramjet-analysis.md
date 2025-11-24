@@ -36,7 +36,12 @@ Our model of a ramjet is these three devices in succession.
 ![Diffuser system diagram]({{ "/assets/images/system.jpeg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 ### Solving for Thrust
-Our goal for our analysis is to find an expression for the thrust produced by a ramjet engine with given inlet air conditions, the heat transferred into the air from combustion per time, and the outlet pressure from the nozzle. We start with a control volume energy balance of the entire system. We maintain our assumptions of no work, no change in potential energy, steady state, air is an ideal gas, and the only heat transfer comes of our heat exchanger model of the combustor. 
-![Diffuser system diagram]({{ "assets/images/IMG_FF44524BE871-1.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
+![Energy balance]({{ "assets/images/IMG_FF44524BE871-1.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
+Our goal for our analysis is to find an expression for the thrust produced by a ramjet engine with given inlet air conditions, the heat transferred into the air from combustion per time, and the outlet pressure from the nozzle. We start with a control volume energy balance of the entire system. We maintain our assumptions of no work, no change in potential energy, steady state, air is an ideal gas, and the only heat transfer comes of our heat exchanger model of the combustor. We solve for the exit velocity, and use the ideal gas property that change in specific enthalpy is equal to the specific heat with constant pressure times the change in temperature. 
+
+![isentropic equation]({{ "assets/images/IMG_66E6BE82ADA6-1.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
+Next, we use an ideal gas isentropic relationship involving the ratios of temperature and pressure to substitute out the exit temperature. We also use the equation for mass flow to substitute in. This gives us an expression for the outlet velocity we can substitute into the thrust equation.
+![thrust equation substitution]({{ "assets/images/IMG_13A25129DFC8-1.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
+
 
 
