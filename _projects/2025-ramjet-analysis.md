@@ -46,6 +46,6 @@ Next, we use an ideal gas isentropic relationship involving the ratios of temper
 ### Changing Conditions
 The main way to affect a ramjet's performance is by altering the speed at which air flows into the engine. This affects the extent to which the air is compressed for use in the combustion chamber. Designing with this in mind is very important because under Mach 0.5, ramjets generate practically zero thrust. Another way to change performance and the complexity of the system is by operating the combustion chamber with either solid or liquid fuel. Operating with liquid fuel increases the complexity, requiring the use of a fuel pump, but allows changes in the amount of fuel provided, unlike solid fuel, where the amount of fuel provided remains constant. We can also modify the geometry of the nozzle and diffuser to change the velocities and pressures of the air as it moves through the system. Modifying the geometry of the diffuser can help to mitigate some of the problems that arise with changes in the velocity. Specifically, inlet buzz, which occurs when the shockwave moves out of the engine housing, causing critical failure.
 
-### Colaboration Statement
-I partnered with JJ Belinghieri, jab922, on this project.
+#### Colaboration Statement
+I partnered with JJ Bellinghieri, jab922, on this project.
 
