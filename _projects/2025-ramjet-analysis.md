@@ -3,7 +3,7 @@ layout: project
 title: Ramjet Thermodynamic Analysis
 description: Thermodynamics analysis project of device
 technologies: []
-image: /assets/images/ram-jet-drawing.jpg
+image: /assets/images/ram-jet-drawing.jpeg
 ---
 
 A ramjet is a type of jet engine designed for high supersonic speeds. Similar to a subsonic turbojet, ramjets include a conbustor driven by a Brayton Cycle, followed by a nozzle that accelerates air out of the engine and produces thrust. However, ramjets differ from turbojets in that they do not include a compressor, nor a turbine to drive it, to compress inlet air. Instead, inlet air is compressed by a diffuser, taking advantage of the ram effect and the shockwave created by the engine hitting air at supersonic speeds to slow down and increase the pressure of inlet air. The drawback of this is that ramjets cannot operate nearly as efficiently at lower, subsonic speeds, like those present of takeoff and landing. Aircraft or missiles that use a ramjet engine must first be accelerated to supersonic speeds by a rocket or other propulsion system. 
@@ -33,7 +33,7 @@ In both a Brayton Cycle combustor and in a ramjet combustor, ideally air is heat
 Finally, in an ideal converging-diverging nozzle, air flows through isentropically as well. We treat it adiabatically and having no work transfer, and disregard any irreversibilities stemming from how air reaches Mach 1 in the throat and expands supersonically in the diverging section. 
 
 Our model of a ramjet is these three devices in succession.
-![Diffuser system diagram]({{ "/assets/images/system.jpeg" | relative_url }}){: .inline-image-r style="width: 500px"}
+![System diagram]({{ "/assets/images/system.jpeg" | relative_url }}){: .inline-image-r style="width: 500px"}
 
 ### Solving for Thrust
 ![Energy balance]({{ "assets/images/IMG_FF44524BE871-1.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
