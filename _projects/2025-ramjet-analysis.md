@@ -2,7 +2,7 @@
 layout: project
 title: Ramjet Thermodynamic Analysis
 description: Thermodynamics analysis project of device
-technologies: [SolidWorks, Machining]
+technologies: []
 image: /assets/images/ramjet-diagram.jpg
 ---
 
@@ -21,7 +21,7 @@ Finally, the hot, high pressure air reaches a converging-diverging nozzle, where
 
 
 ### Modeling an Ideal Ramjet
-We seek to thermodynamically analyze a ramjet in "ideal" conditions. To do this, we need to make some modeling choices for the ramjet engine as a whole, and each of its 3 components. First, we will model a ramjet as a control volume. This is an open system, as air is not recyled back into the system after going through the engine. We assume the ramjet is operating at steady state for this analysis, and that there is no change in potential energy of fluid flow in the ramjet engine. Next, we assume an ideal ramjet cycle contains no irreversibilites and is fully reversible. Finally, we make the assumption that air is an ideal gas with constant specific heats. A ramjet will be operated in the atmosphere at pressures likely below sea level atmospheric pressure and at temperatures far from air the critical points of the gasses that mostly make up air, so this is a reasonable assumption.
+We seek to thermodynamically analyze a ramjet in "ideal" conditions. To do this, we need to make some modeling choices for the ramjet engine as a whole, and each of its 3 components. First, we will model a ramjet as a control volume. This is an open system, as air is not recyled back into the system after going through the engine. We assume the ramjet is operating at steady state for this analysis, and that there is no change in potential energy of fluid flow in the ramjet engine. Finally, we make the assumption that air is an ideal gas with constant specific heats. A ramjet will be operated in the atmosphere at pressures likely below sea level atmospheric pressure and at temperatures far from air the critical points of the gasses that mostly make up air, so this is a reasonable assumption.
 
 ![Diffuser system diagram]({{ "/assets/images/diagram-diff.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
 Next, we have decided to model that in an ideal ramjet, air flows through the diffuser isentropically. This means we consider it adiabaticly, and disregard the irreversibilites and entropy generation caused by the shockwaves and the drop below the speed of sound. There is also no mechanism for a work transfer in nor out in the diffuser.
@@ -30,25 +30,7 @@ Next, we have decided to model that in an ideal ramjet, air flows through the di
 In both a Brayton Cycle combustor and in a ramjet combustor, ideally air is heated up at constant pressure. We saw the mass flow of fuel into the combustor is much smaller than the mass flow of air in, and we do not know much about the state of entering fuel. Because of this, we choose to model the combustor as a heat exhanger that raises the temperature of the air. This allows us to disregard entropy generation from fuel and air mixing as well. A further simplifying assumption we will make for our ideal ramjet cycle is that it is well insulated from the outside enviornment, and does not reject any heat via convection to the atmosphere. 
 
 ![Nozzle System Diagram]({{ "/assets/images/nozzle-diagram.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
-Finally, in an ideal converging-diverging nozzle, air flows through isentropically as well. We treat it adiabatically and having no work transfer, and disregard any irreversibilities stemming from how air reaches Mach 1 in the throat and expands supersonically in the diverging section. Finally, under the assumption of a reversible ramjet cycle, we assume the air expands so that the exit pressure from the nozzle is equal to the inlet pressure of air into the engine.
+Finally, in an ideal converging-diverging nozzle, air flows through isentropically as well. We treat it adiabatically and having no work transfer, and disregard any irreversibilities stemming from how air reaches Mach 1 in the throat and expands supersonically in the diverging section. 
 
 Our ramjet system as a whole we model below:
 ![Diffuser system diagram]({{ "/assets/images/system.jpeg" | relative_url }}){: .inline-image-l style="width: 500px"}
-
-
-Important things to include:
-"Ideal" Ramjet - assumptions, diagrams, energy and mass balances, T s diagram, thrust equation, and calculations under an arbitrary reasonable operating conditions 
-
-We talk about how it is affected at low speeds and how we get no change in velocity and no thrust
-Also the general limitations and drawbacks of a ramjet
-
-Possibily include:
-Reference to something that uses a ramjet 
-Ram effect and ram pressure
-converging and diverging nozzle analysis
-
-
-
-Talk about the Blackbird turbofan ramjet thingy, possibly the X-43, though this is a scramjet drone
-
-Ramjets are generally the most fuel efficient between Mach 3 and 5. 
