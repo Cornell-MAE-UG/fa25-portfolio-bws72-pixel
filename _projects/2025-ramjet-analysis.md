@@ -32,5 +32,11 @@ In both a Brayton Cycle combustor and in a ramjet combustor, ideally air is heat
 ![Nozzle System Diagram]({{ "/assets/images/nozzle-diagram.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
 Finally, in an ideal converging-diverging nozzle, air flows through isentropically as well. We treat it adiabatically and having no work transfer, and disregard any irreversibilities stemming from how air reaches Mach 1 in the throat and expands supersonically in the diverging section. 
 
-Our ramjet system as a whole we model below:
-![Diffuser system diagram]({{ "/assets/images/system.jpeg" | relative_url }}){: .inline-image-l style="width: 500px"}
+Our model of a ramjet is these three devices in succession.
+![Diffuser system diagram]({{ "/assets/images/system.jpeg" | relative_url }}){: .inline-image-r style="width: 500px"}
+
+### Solving for Thrust
+Our goal for our analysis is to find an expression for the thrust produced by a ramjet engine with given inlet air conditions, the heat transferred into the air from combustion per time, and the outlet pressure from the nozzle. We start with a control volume energy balance of the entire system. We maintain our assumptions of no work, no change in potential energy, steady state, air is an ideal gas, and the only heat transfer comes of our heat exchanger model of the combustor. 
+![Diffuser system diagram]({{ "assets/images/IMG_FF44524BE871-1.jpeg" | relative_url }}){: .inline-image-r style="width: 300px"}
+
+
