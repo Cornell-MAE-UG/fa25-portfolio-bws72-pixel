@@ -30,9 +30,10 @@ These traps would be hung or placed on poles above or below vines to kill SLFs
 Usable during harvest instead of pesticides or manual removal, and requires little human effort; Passively attracts and kills SLFs and get them off the crop for harvest
 ##### End of semester proof-of-concept: 
 A cylinder with holes angled inward just large enough to allow SLFs to enter. Inside it can hold Tree of Heaven sap and emit its scent and hold a pool of soapy water, or another liquid, at the bottom to disorient and drown SLF. 
-### Key risks / unknowns : 
+### Key risks and unknowns: 
 * Risk 1: Quantitative effectiveness of the light and vibrations/tree of heaven liquid at attracting the SLFs is unknown. We can test this by placing SLFs in a controlled environment with access to these stimuli and vines. 
 * Risk 2: How the stimuli affect other organisms in the vineyard or how the stimuli may be affected by weather or time of day; these could be tested in a controlled environment with varying conditions. 
+
 ### Questions for Clients:
 * Trap type & placement: Where can a trap be installed without interfering with the mechanical harvester?
 * Electricity needs: If a trap needed power, should it run on a battery or is an external source like a solar panel possible?
