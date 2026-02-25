@@ -5,12 +5,20 @@ description: The NY Times Wordle game coded in OCaml
 technologies: OCaml, 
 image: /assets/images/Wordle-NYT-Game.jpg.webp
 ---
+### Overview
 
-Link to the game logic: [Game logic and data structure code](#logic)
+This page contains the OCaml code for a fully functioning Wordle game based on the online New York Times game Wordle played in a computer terminal. 
 
-Link to the text UI code: [Link to the section heading](#main)
+There are 3 following sections, containing code snippets of the game logic and data structures used to create the game, the interactions with the user that make up the textual UI in the terminal, and the testing for this game. 
 
-### Logic
+Below is a zip file containing the full program, that can be downloaded and built, compiler, and ran with the OPAM package manager and Dune. [Download the Wordle Program](/assets/wordle-program.zip)
+
+
+Link to the game logic (a1/lib/wordle.ml): [Game logic](#logic)
+
+Link to the text UI code: () [Link to the section heading](#main)
+
+## Logic
 
 ~~~ ocaml
 (*Allows a random number to be generated later.*)
@@ -117,7 +125,7 @@ let is_valid_guess guess secret_dictionary not_secret_dictionary : bool =
 ~~~
 
 
-### main
+## Main
 
 ~~~ ocaml
 (** @author Ben Sedran (bws72)
