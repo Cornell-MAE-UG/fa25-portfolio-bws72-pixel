@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/BenSedranResume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [bws72@cornell.edu](mailto:bws72@cornell.edu) | | | **Phone:** 781 995 7269
@@ -19,8 +19,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: May, 2028
+  *Bachelor of Science in Mechanical and Aerospace Engineering* 
+  GPA: 3.75/4.0 | Graduation: May, 2028
 
 - **[Bedford High School]**  
   *High School Diploma*  
@@ -29,9 +29,9 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360  
-- **Programming:** Java, MATLAB, C++, OCaml  
-- **Tools:** 3D Printing, CNC router, Woodshop power tools
+- **Software:** Autodesk Fusion 360, MATLAB
+- **Programming:** Java, C, OCaml  
+- **Tools:** 3D Printing, CNC router, Lathe, Mill, Bandsaws, and other Woodshop and Machine Shop power tools
 
 ---
 
