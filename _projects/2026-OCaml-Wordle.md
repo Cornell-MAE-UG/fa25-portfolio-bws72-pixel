@@ -14,7 +14,7 @@ First collapsable section for main:
 ### lib/Wordle.ml
 
 
-```
+~~~ocaml
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
 
@@ -117,7 +117,7 @@ let is_valid_guess guess secret_dictionary not_secret_dictionary : bool =
   List.exists (fun str -> String.equal str guess) secret_dictionary
   || List.exists (fun str -> String.equal str guess) not_secret_dictionary
 
-```
+~~~
 
 
 </details>
