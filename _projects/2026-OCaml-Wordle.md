@@ -6,10 +6,12 @@ technologies: OCaml,
 image: /assets/images/Wordle-NYT-Game.jpg.webp
 ---
 
-Link to the game logic: [Game logic and data structur code](#lib/wordle.ml)
-Link to the text UI code: [Link to the section heading](#main.ml)
+Link to the game logic: [Game logic and data structure code](#logic)
 
-### lib/wordle.ml
+Link to the text UI code: [Link to the section heading](#main)
+
+### Logic
+
 ~~~ ocaml
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
@@ -115,7 +117,8 @@ let is_valid_guess guess secret_dictionary not_secret_dictionary : bool =
 ~~~
 
 
-### main.ml
+### main
+
 ~~~ ocaml
 (** @author Ben Sedran (bws72)
 
