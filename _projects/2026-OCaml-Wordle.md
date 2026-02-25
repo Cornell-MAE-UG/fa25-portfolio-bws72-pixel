@@ -7,7 +7,7 @@ image: /assets/images/Wordle-NYT-Game.jpg.webp
 ---
 
 New idea: please display code block:
-```OCaml
+```ocaml
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
 
