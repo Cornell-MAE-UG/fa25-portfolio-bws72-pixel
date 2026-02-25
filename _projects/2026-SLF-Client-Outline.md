@@ -5,7 +5,7 @@ description: Client Outline of SLF trap project
 technologies: []
 image: /assets/images/SLF.jpg
 ---
-#### As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
+##### As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
 
 ### The Spotted Lantern Fly Epidemic
 Client(s): Cornell CALS Extension / E&J Gallo Winery / National Grape
