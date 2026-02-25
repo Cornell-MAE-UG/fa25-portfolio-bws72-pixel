@@ -5,7 +5,7 @@ description: Client Outline of SLF trap project
 technologies: []
 image: /assets/images/SLF.jpg
 ---
-## As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
+#### As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
 
 ### The Spotted Lantern Fly Epidemic
 Client(s): Cornell CALS Extension / E&J Gallo Winery / National Grape
@@ -22,7 +22,7 @@ Install stations at row ends or vineyard edges; Periodically empty and repositio
 ##### Why it’s better than the status quo: 
 Usable during harvest when pesticides and manual removal are impractical; Reduces SLFs on fruit without slowing harvest operations.
 ##### End-of-semester proof-of-concept:
-A prototype with adjustable light angle, vibration mount, and funnel to measure change in SLF clustering vs. distance from a vine and capture rate. 
+A prototype trap with adjustable rotating light, vibration source, and containment and or killing area. 
 #### Concept B: Scent and Visual Cue SLF Trap 
 Taking inspiration from comericial wasp traps, a cylindrical trap with holes funneling inward just large enough for an SLF to fly in that uses the scent of a Tree of Heaven, an invasive tree the bugs eat the sap from, and is mounted on a tall, slender silhouette to attract the SLF. Here, the bugs can be killed with a contact insecticide.
 ##### How it would be used: 
@@ -30,7 +30,7 @@ These traps would be hung or placed on poles above or below vines to kill SLFs.
 ##### Why it’s better than the status quo: 
 Usable during harvest instead of pesticides or manual removal, and requires little human effort; Passively attracts and kills SLFs and get them off the crop for harvest.
 ##### End of semester proof-of-concept: 
-A cylinder with holes angled inward just large enough to allow SLFs to enter. Inside it can hold Tree of Heaven sap and emit its scent and hold a pool of soapy water, or another liquid, at the bottom to disorient and drown SLF. 
+A trap that SLFs can just barely enter that can hold sap and scents to bait the insects, a sliding door to empty the bugs, that kills the bugs with a contact insecticide. 
 ### Key risks and unknowns: 
 * Risk 1: Quantitative effectiveness of the light and vibrations/tree of heaven liquid at attracting the SLFs is unknown. We can test this by placing SLFs in a controlled environment with access to these stimuli and vines. 
 * Risk 2: How the stimuli affect other organisms in the vineyard or how the stimuli may be affected by weather or time of day; these could be tested in a controlled environment with varying conditions. 

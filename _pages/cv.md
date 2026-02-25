@@ -22,7 +22,7 @@ Sophomore mechanical engineering student at Cornell University with a minor in c
   *Bachelor of Science in Mechanical and Aerospace Engineering with a Computer Science minor* 
   GPA: 3.75/4.0 | Graduation: May, 2028
 
-- **[Bedford High School]**  
+- **Bedford High School**  
   *High School Diploma*  
   Graduation: [June, 2024]
 
@@ -39,15 +39,15 @@ Sophomore mechanical engineering student at Cornell University with a minor in c
 - **Ramjet Thermodynamic Analysis**:  
   *A research based, qualitative analysis of the thermodynamics of a ramjet engine.*  
 
-- **[Spotted Lanternfly Client Pitch]**:  
+- **Spotted Lanternfly Client Pitch**:  
   *[A pitch to members of the NY grape industry with questions and proposed directions to combat the invasive Spotted LanternFly.]*  
 
-- **[Terminal Wordle]**:  
+- **Terminal Wordle**:  
   *[A fully functioning Wordle game based on the online NYTimes game Wordle, coded in OCaml, and played in a computer terminal.]*  
 ---
 
 #### Work Experience
-- **[Billerica Boys and Girls Club] - Pool Supervisor and Swim Instructor**  
+- **Billerica Boys and Girls Club - Pool Supervisor and Swim Instructor**  
   [July, 2021] - [August, 2025]  
   - Teaching swim lessons to children aged 3-12 of all skill levels in group and individual lessons
   - Testing and maintaining pool chemical concentrations
@@ -55,7 +55,7 @@ Sophomore mechanical engineering student at Cornell University with a minor in c
   - Administering swim tests
   - Training new instructors to teach safe, effective classes and push kids to overcome fear of the water
 
-- **[Spring Brook Park] - Swim Instructor and Lifegaurd**  
+- **Spring Brook Park - Swim Instructor and Lifegaurd**  
   [June, 2022] - [August, 2025]  
   - Teaching swim lessons to town summer campers in large groups of 6-8
   - Administering Christian's Law swim test to camp counselors
@@ -64,8 +64,7 @@ Sophomore mechanical engineering student at Cornell University with a minor in c
 ---
 
 #### Achievements & Certifications
-- [Red Apron Shop Certification], [Cornell Manufacturing Learning Studio], [2026]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Red Apron Shop Certification - Cornell Manufacturing Learning Studio, [2026]  
 
 ---
 
