@@ -5,13 +5,14 @@ description: The NY Times Wordle game coded in OCaml
 technologies: OCaml, 
 image: /assets/images/Wordle-NYT-Game.jpg.webp
 ---
+First collapsable section for main:
+<details>
 
-New idea: please display code block:
 ```ocaml
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
 
-(* Type [state] contains the important data for a game. string [secret_word] is
+(** Type [state] contains the important data for a game. string [secret_word] is
     the word the player tries to guess. string list [secret_dictionary] contains
     words that can be selected to be [secret_word] and can be guessed. string
     list [not_secret_dictionary] contains words that cannot be selected as the
@@ -110,3 +111,4 @@ let is_valid_guess guess secret_dictionary not_secret_dictionary : bool =
   List.exists (fun str -> String.equal str guess) secret_dictionary
   || List.exists (fun str -> String.equal str guess) not_secret_dictionary
 ```
+</details>
