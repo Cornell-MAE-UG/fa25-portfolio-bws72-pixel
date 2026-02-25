@@ -11,7 +11,7 @@ New idea: please display code block:
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
 
-(** Type [state] contains the important data for a game. string [secret_word] is
+(* Type [state] contains the important data for a game. string [secret_word] is
     the word the player tries to guess. string list [secret_dictionary] contains
     words that can be selected to be [secret_word] and can be guessed. string
     list [not_secret_dictionary] contains words that cannot be selected as the
