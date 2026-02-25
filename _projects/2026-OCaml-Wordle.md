@@ -6,7 +6,13 @@ technologies: OCaml,
 image: /assets/images/Wordle-NYT-Game.jpg.webp
 ---
 First collapsable section for main:
+
 <details>
+
+<summary>The logic and data structures that make up the Wordle game.</summary>
+
+### lib/Wordle.ml
+
 
 ```ocaml
 (*Allows a random number to be generated later.*)
@@ -110,5 +116,8 @@ let guess_colors_list (guess : string) (secret_word : string) :
 let is_valid_guess guess secret_dictionary not_secret_dictionary : bool =
   List.exists (fun str -> String.equal str guess) secret_dictionary
   || List.exists (fun str -> String.equal str guess) not_secret_dictionary
+
 ```
+
+
 </details>
