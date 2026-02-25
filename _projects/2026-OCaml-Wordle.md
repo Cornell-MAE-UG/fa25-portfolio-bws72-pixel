@@ -9,12 +9,12 @@ First collapsable section for main:
 
 <details>
 
-<summary>The logic and data structures that make up the Wordle game.</summary>
+<summary> The logic and data structures that make up the Wordle game. </summary>
 
 ### lib/Wordle.ml
 
 
-```ocaml
+```
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
 
