@@ -14,7 +14,7 @@ First collapsable section for main:
 ### lib/Wordle.ml
 
 
-~~~ocaml
+~~~ ocaml
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
 
