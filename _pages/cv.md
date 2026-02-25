@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/BenSedranResume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "BenSedranResume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [bws72@cornell.edu](mailto:bws72@cornell.edu) | | | **Phone:** 781 995 7269
