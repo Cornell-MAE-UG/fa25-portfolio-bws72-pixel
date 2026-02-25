@@ -9,12 +9,7 @@ First collapsable section for main:
 
 <details>
 
-<summary> The logic and data structures that make up the Wordle game. </summary>
-
-### lib/Wordle.ml
-
-
-~~~ ocaml
+<summary> The logic and data structures that make up the Wordle game. </summary> ~~~ ocaml
 (*Allows a random number to be generated later.*)
 let () = Random.self_init ()
 
@@ -115,9 +110,7 @@ let guess_colors_list (guess : string) (secret_word : string) :
     [secret_dictionary] or [not_secret_dictionary]. *)
 let is_valid_guess guess secret_dictionary not_secret_dictionary : bool =
   List.exists (fun str -> String.equal str guess) secret_dictionary
-  || List.exists (fun str -> String.equal str guess) not_secret_dictionary
-
-~~~
+  || List.exists (fun str -> String.equal str guess) not_secret_dictionary ~~~
 
 
 </details>
