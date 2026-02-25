@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Ramjet Thermodynamic Analysis
+title: Ramjet Thermodynamic Qualitative Analysis
 description: Thermodynamics analysis project of device
 technologies: []
 image: /assets/images/ram-jet-drawing.jpeg
