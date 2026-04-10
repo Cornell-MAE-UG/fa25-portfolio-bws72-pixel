@@ -1,10 +1,16 @@
 ---
 layout: project
-title: SLF Client Outline
+title: SLF Project
 description: Client Outline of SLF trap project
 technologies: []
 image: /assets/images/SLF.jpg
 ---
+
+### Sections:
+Link to client pitch: [Client pitch](#client-pitch)
+Link to functional prototype: [Functional Prototype](#functional-prototype)
+
+## Client Pitch
 ##### As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
 
 ### The Spotted Lantern Fly Epidemic
@@ -43,3 +49,30 @@ A trap that SLFs can just barely enter that can hold sap and scents to bait the 
 
 ### References: 
 Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies Could Cost Nys Grape Industry Millions.” Cornell Chronicle, Cornell University, 27 Jan. 2025, news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions. 
+
+
+## Functional Prototype
+
+### Design Documentation
+
+#### Container
+* Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post.
+* All parts from Taylor design studio.
+* Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box.
+#### Drawer
+* Description: a drawer on a set of rails at the bottom of the trap to catch the SLF and store the trap liquid.
+* McMaster: none, materials include wooden sheets available in the Taylor design studio, CA glue.
+* Fabrication: glue 2 strips of wood cut to size onto the inside of the box, make the box for the drawer out of wood and cut a slit with a ledge at the bottom of the slit on either side of the drawer such that it slides into the container easily.
+#### Trap Funnel
+* Description: Gonna need a photo
+* McMaster: No McMaster parts for functional prototype. Materials: diameter 8 cm wire, wood, zipties, string, and rubber bands from TDS.
+* Fabrication: Used the bandsaw to cut flaps out of wood and used the bandsaw to cut a notch in the back of each for a rubber band/string to sit in. Drilled a hole in each flap with a hand drill. Used pliers to cut the wire and bent it into a circle. Ziptied each flap to the ring. 
+
+#### Extendable Post
+* Description: two horseshoe shaped poles, where the smaller one fits into the bigger one, with holes drilled into the sides such that a rod can fit through respective holes and make the length adjustable.
+* McMaster: no McMaster parts, materials: wooden sheets and cylinders available in Taylor design studio and CA glue.
+* Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole
+* Cut the wood cylinder (1cm diameter) into 4 inch long pieces, superglued ticker wooden cylinder at the end such that these pieces slot into the drilled holes on the pole.
+
+![Trap Sketches]({{ "/assets/images/Trap Diagram.png" | relative_url }}){: .inline-image-r style="width: 450px"}
+![Component list]({{ "/assets/images/Components list.png" | relative_url }}){: .inline-image-r style="width: 450px"}
