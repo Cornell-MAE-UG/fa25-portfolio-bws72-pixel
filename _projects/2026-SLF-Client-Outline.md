@@ -6,9 +6,9 @@ technologies: []
 image: /assets/images/SLF.jpg
 ---
 
-### Sections:
-Link to client pitch: [Client pitch](#client-pitch)
-Link to functional prototype: [Functional Prototype](#functional-prototype)
+# Sections:
+* Link to client pitch: [Client pitch](#client-pitch)
+* Link to functional prototype: [Functional Prototype](#functional-prototype)
 
 ## Client Pitch
 ##### As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
