@@ -51,18 +51,22 @@ A trap that SLFs can just barely enter that can hold sap and scents to bait the 
 Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies Could Cost Nys Grape Industry Millions.” Cornell Chronicle, Cornell University, 27 Jan. 2025, news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions. 
 
 
-## Functional Prototype
+## Functional Prototype:
 
-### Design Documentation
+
+### Design Documentation:
+
 
 #### Container
 * Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post.
 * All parts from Taylor design studio.
 * Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box.
+
 #### Drawer
 * Description: a drawer on a set of rails at the bottom of the trap to catch the SLF and store the trap liquid.
 * McMaster: none, materials include wooden sheets available in the Taylor design studio, CA glue.
 * Fabrication: glue 2 strips of wood cut to size onto the inside of the box, make the box for the drawer out of wood and cut a slit with a ledge at the bottom of the slit on either side of the drawer such that it slides into the container easily.
+
 #### Trap Funnel
 * Description: Gonna need a photo
 * McMaster: No McMaster parts for functional prototype. Materials: diameter 8 cm wire, wood, zipties, string, and rubber bands from TDS.
@@ -76,3 +80,63 @@ Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies C
 
 ![Trap Sketches]({{ "/assets/images/Trap Diagram.png" | relative_url }}){: .inline-image-r style="width: 450px"}
 ![Component list]({{ "/assets/images/Components list.png" | relative_url }}){: .inline-image-r style="width: 450px"}
+
+### Proposed McMaster Parts for Final Prototype
+* Steel Bolt-Together Framing Rail Zinc-Plated, 1-1/4" Square, 0.083" Wall Thickness
+
+### Design Tests
+
+#### Container
+* Assembly and fastening: container is secure and stable on pole and can withstand 10 mph wind. We will use the equation F=½ (pCAv2), and use a pull scale to give the set up container and pole the equivalent shearing force.
+
+#### Drawer
+* Load-bearing performance: Can hold 12 kg without limitation of motion.
+* Motion and interference: opening & closing smoothly without jamming.
+* Repeating-Use: Drawer can be reused 50 times without visible damage.
+
+#### Funnel
+* The flaps meet between 1 and 3 centimeters from each other in the middle of the funnel.
+* When a model of a similar size as a lanternfly is pulled on a string upward through the funnel, the flaps mesh together and prevent the model from escaping.
+* A string or rubber band that keeps the flaps pulled inward to the center of the funnel can be replaced as necessary to adjust the trap.
+* The friction between the ring and flaps can be adjusted, and flaps can be replaced as necessary to allow easy entry of lanternflies into the trap.
+* A model of the same size as an adult lanternfly moves through the funnel into the trap when dropped into the funnel.
+
+#### Extendable Post
+* Motion and interference: Pole can move up and down smoothly without jamming.
+* Repeating-Use: Position can be changed 50 times without visible damage, and the pins can be removed with a needed force the average person can easily provide.
+* Stability Support: Doesn't slip when changing height.
+* Load-bearing: make sure the pole can hold maximum weight (14.25 kg).
+
+### Results
+
+#### Drawer
+* The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and
+pulling. 
+* Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming.
+* We need to design or find a stable and ergonomic handle for the drawer.
+
+#### Trap Funnel
+* Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap. These so called good conditions were when the flaps were properly spaced and oriented, and the string tied around them was not caught.
+* In worse conditions, such as improper spacing, twisted flaps, or a caught string, the trap either did not let the model bug enter, or could not keep it from escaping.
+* Implications:
+ - The flaps need spacers to keep them in place on the ring.
+ - The flaps need more than one attachment point to keep the face of each flap pointing at the center of the ring.
+ - We need a better mechanism to prevent the flaps from opening too wide so that they will always be hit by a bug trying to escape.
+ - We need to make flaps that can be adjusted in length.
+ - The attachment of the funnel to the rest of the trap needs to not interfere with the action of the funnel and the range of motion of the flaps.
+ - Flaps need to be thinner so that their thickness does not cause them to collide with and get stuck behind adjacent flaps.
+ - We will consider moving from a circular funnel to a different shape like an octagon so flaps fit together better and we do not have to deal with straight flaps on a curved hinge.
+
+#### Extendable Post
+* Pole position successfully raised up and down 50 times without visible damage or slippage.
+* Pole position setting pin can be pulled with minimal force.
+* Pole did not visibly deform when trap loaded with 6 kg.
+* These show the extendable pole mechanism passed all tests we set for it and needs minimal change, save for a weather proof material, for our next iteration.
+
+### Success Criteria
+Our trap is box shaped and will be placed on an adjustable pole in the vineyard, it will contain a cone shaped trapping mechanism and a drawer to catch the SLF’s and remove them.
+* Drawer weight capacity: this is assessing whether the drawer could successfully hold the weight of the maximum load SLF and still be opened and closed without any jamming or damage. This can be demoed on exhibit day.
+* Moving the pole up and down: assessing the durability of the pole mechanism and the practicality of the mechanism; success is determined if it can be adjusted without awkwardness or unreasonable effort from the user. Unreasonable effort is a subjective assessment, but the goal is that there is no doubt as to the ease of use. This can be demoed on exhibit day.
+* Removability and adjustability of the length of the flaps, it is assessing flaps are easily adjustable depending on circumstances and testing with real bugs, success is determined if the flaps can be successfully removed and reattached and their length can be adjusted (50 times each) without damaging them. This can also be demoed on exhibit day.
+* The flaps range of motion is constrained so that they stay close to the center of the funnel: they cannot move past the vertical. This is to keep the opening at the bottom of the funnel small so that anytime a fly tries to leave the trap, they will hit the flaps. This is assessing the range of motion of the flaps, and success will be determined if the user can set how far they’d like the flaps to be able to move and the position they are in as a default.
+
