@@ -68,7 +68,7 @@ Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies C
 * Fabrication: glue 2 strips of wood cut to size onto the inside of the box, make the box for the drawer out of wood and cut a slit with a ledge at the bottom of the slit on either side of the drawer such that it slides into the container easily.
 
 ##### Trap Funnel
-* Description: Gonna need a photo
+* Description: Best described in the sketch below. It is a ring with flaps hanging below that can rotate to let an SLF in, but rotate inward and mess together to block any SLF from escaping the trap.
 * McMaster: No McMaster parts for functional prototype. Materials: diameter 8 cm wire, wood, zipties, string, and rubber bands from TDS.
 * Fabrication: Used the bandsaw to cut flaps out of wood and used the bandsaw to cut a notch in the back of each for a rubber band/string to sit in. Drilled a hole in each flap with a hand drill. Used pliers to cut the wire and bent it into a circle. Ziptied each flap to the ring. 
 
