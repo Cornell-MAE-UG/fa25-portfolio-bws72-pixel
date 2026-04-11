@@ -82,7 +82,11 @@ Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies C
 ![Component list]({{ "/assets/images/Components list.png" | relative_url }}){:  style="width: 600px"}
 
 ### Proposed McMaster Parts for Final Prototype
-* Steel Bolt-Together Framing Rail Zinc-Plated, 1-1/4" Square, 0.083" Wall Thickness
+* Outter Post: Part Number 6535K232; Steel Bolt-Together Framing Rail Zinc-Plated, 1-1/4" Square, 0.083" Wall Thickness, 6ft height - $57.82
+* Inner Post: Part Number 6535K212; Steel Bolt-Together Framing Rail Zinc-Plated, 1" Square, 0.083" Wall Thickness, 4 ft height - $38.83
+* Post Pins: Part Number 91274A316; Zinc-Flake-Coated Alloy Steel Socket Head Screw 3/8"-16 Thread Size, 1-1/2" Long - $7.29
+* Flaps Hinges: Part Number 1603A2; Surface-Mount Hinge with Holes, Brass, Nonremovable Pin, 3/4" x 5/16" Door Leaf - $13.30 total
+* Rollers/wheels for Drawer: Part Number 1714A5; Plastic Roller for Cabinet Drawers and Doors, 9/16” diameter - $7.12 total
 
 ### Design Tests
 
