@@ -78,8 +78,8 @@ Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies C
 * Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole
 * Cut the wood cylinder (1cm diameter) into 4 inch long pieces, superglued ticker wooden cylinder at the end such that these pieces slot into the drilled holes on the pole.
 
-![Trap Sketches]({{ "/assets/images/Trap Diagram.png" | relative_url }}){: .inline-image-r style="width: 450px"}
-![Component list]({{ "/assets/images/Components list.png" | relative_url }})
+![Trap Sketches]({{ "/assets/images/Trap Diagram.png" | relative_url }}){:  style="width: 650px"}
+![Component list]({{ "/assets/images/Components list.png" | relative_url }}) {:  style="width: 550px"}
 
 ### Proposed McMaster Parts for Final Prototype
 * Steel Bolt-Together Framing Rail Zinc-Plated, 1-1/4" Square, 0.083" Wall Thickness
