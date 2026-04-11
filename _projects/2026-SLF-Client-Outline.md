@@ -57,51 +57,51 @@ Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies C
 ### Design Documentation:
 
 
-#### Container
+##### Container
 * Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post.
 * All parts from Taylor design studio.
 * Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box.
 
-#### Drawer
+##### Drawer
 * Description: a drawer on a set of rails at the bottom of the trap to catch the SLF and store the trap liquid.
 * McMaster: none, materials include wooden sheets available in the Taylor design studio, CA glue.
 * Fabrication: glue 2 strips of wood cut to size onto the inside of the box, make the box for the drawer out of wood and cut a slit with a ledge at the bottom of the slit on either side of the drawer such that it slides into the container easily.
 
-#### Trap Funnel
+##### Trap Funnel
 * Description: Gonna need a photo
 * McMaster: No McMaster parts for functional prototype. Materials: diameter 8 cm wire, wood, zipties, string, and rubber bands from TDS.
 * Fabrication: Used the bandsaw to cut flaps out of wood and used the bandsaw to cut a notch in the back of each for a rubber band/string to sit in. Drilled a hole in each flap with a hand drill. Used pliers to cut the wire and bent it into a circle. Ziptied each flap to the ring. 
 
-#### Extendable Post
+##### Extendable Post
 * Description: two horseshoe shaped poles, where the smaller one fits into the bigger one, with holes drilled into the sides such that a rod can fit through respective holes and make the length adjustable.
 * McMaster: no McMaster parts, materials: wooden sheets and cylinders available in Taylor design studio and CA glue.
 * Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole
 * Cut the wood cylinder (1cm diameter) into 4 inch long pieces, superglued ticker wooden cylinder at the end such that these pieces slot into the drilled holes on the pole.
 
 ![Trap Sketches]({{ "/assets/images/Trap Diagram.png" | relative_url }}){: .inline-image-r style="width: 450px"}
-![Component list]({{ "/assets/images/Components list.png" | relative_url }}){: .inline-image-r style="width: 450px"}
+![Component list]({{ "/assets/images/Components list.png" | relative_url }})
 
 ### Proposed McMaster Parts for Final Prototype
 * Steel Bolt-Together Framing Rail Zinc-Plated, 1-1/4" Square, 0.083" Wall Thickness
 
 ### Design Tests
 
-#### Container
+##### Container
 * Assembly and fastening: container is secure and stable on pole and can withstand 10 mph wind. We will use the equation F=½ (pCAv2), and use a pull scale to give the set up container and pole the equivalent shearing force.
 
-#### Drawer
+##### Drawer
 * Load-bearing performance: Can hold 12 kg without limitation of motion.
 * Motion and interference: opening & closing smoothly without jamming.
 * Repeating-Use: Drawer can be reused 50 times without visible damage.
 
-#### Funnel
+##### Funnel
 * The flaps meet between 1 and 3 centimeters from each other in the middle of the funnel.
 * When a model of a similar size as a lanternfly is pulled on a string upward through the funnel, the flaps mesh together and prevent the model from escaping.
 * A string or rubber band that keeps the flaps pulled inward to the center of the funnel can be replaced as necessary to adjust the trap.
 * The friction between the ring and flaps can be adjusted, and flaps can be replaced as necessary to allow easy entry of lanternflies into the trap.
 * A model of the same size as an adult lanternfly moves through the funnel into the trap when dropped into the funnel.
 
-#### Extendable Post
+##### Extendable Post
 * Motion and interference: Pole can move up and down smoothly without jamming.
 * Repeating-Use: Position can be changed 50 times without visible damage, and the pins can be removed with a needed force the average person can easily provide.
 * Stability Support: Doesn't slip when changing height.
@@ -109,13 +109,13 @@ Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies C
 
 ### Results
 
-#### Drawer
+##### Drawer
 * The drawer prototype was tested with loads up to 6 kg, which is approximately half of the target load for the final design due to anticipated differences in material strength. The results indicated that while the structure could support this load, the handle design requires improvement to reliably sustain higher forces during repeated pushing and
 pulling. 
 * Additionally, the drawer’s motion was evaluated under a 3 kg load, where it successfully opened and closed smoothly for 15 consecutive cycles without jamming.
 * We need to design or find a stable and ergonomic handle for the drawer.
 
-#### Trap Funnel
+##### Trap Funnel
 * Under good trap conditions, the fly model could be placed inward on a string and with very little force fall through the funnel, and when pulled back up by string the fly model could not escape once inside the trap. These so called good conditions were when the flaps were properly spaced and oriented, and the string tied around them was not caught.
 * In worse conditions, such as improper spacing, twisted flaps, or a caught string, the trap either did not let the model bug enter, or could not keep it from escaping.
 * Implications:
@@ -127,7 +127,7 @@ pulling.
  - Flaps need to be thinner so that their thickness does not cause them to collide with and get stuck behind adjacent flaps.
  - We will consider moving from a circular funnel to a different shape like an octagon so flaps fit together better and we do not have to deal with straight flaps on a curved hinge.
 
-#### Extendable Post
+##### Extendable Post
 * Pole position successfully raised up and down 50 times without visible damage or slippage.
 * Pole position setting pin can be pulled with minimal force.
 * Pole did not visibly deform when trap loaded with 6 kg.
