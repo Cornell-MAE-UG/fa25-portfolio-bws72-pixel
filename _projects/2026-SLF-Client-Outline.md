@@ -1,16 +1,18 @@
 ---
 layout: project
 title: SLF Project
-description: Client Outline of SLF trap project
-technologies: []
+description: MAE 2250 Design Project
 ---
 
-![SLF and grapes]({{ "/assets/images/SLF.jpg" | relative_url }}){:  style="width: 700px"}
+![SLF and grapes]({{ "/assets/images/SLF.jpg" | relative_url }}){:  style="width: 500px"}
 
-# Sections:
+As part of a semester long project for MAE 2250 (Intro to Mechanical Design), my group and I worked on a prototype aimed to combat the invasive spotted lanterfly infecting vineyards across New York. We made a pitch to potential clients, built a rough functional prototype, and built and tested a second prototype design. We presented our prototype with a poster of our design and results in an exhibition in the Cornell Duffield Engineering Atrium. To document our second prototype and testing, we wrote a client report on with our conclusions and prototype details. Each of these 3 are linked below. 
+
+## Sections:
 * Link to client pitch: [Client pitch](#client-pitch)
 * Link to functional prototype: [Functional Prototype](#functional-prototype)
 * Link to client report: [Client Report](#client-report)
+* Link to poster: [Poster](#poster)
 
 ---
 
@@ -160,7 +162,9 @@ Our trap is box shaped and will be placed on an adjustable pole in the vineyard,
 ## Client Report
 
 Team: Team 003
+
 Client(s): Cornell CALS Extension / E&J Gallo Winery / National Grape
+
 Members: Lydia Woodall, Ben Sedran, Charlotte Huber, Esmeralda Bernal Martinez, and Lisa Chen
 
 ### Context and Problem statement: 
@@ -169,6 +173,9 @@ Vineyards across the United States are impacted by spotted lantern fly (SLF) inf
 ### Final Prototype and Application: 
 Our final prototype is a low-cost mechanical trap designed to attract, capture, and contain SLFs away from grapevines during the harvest window. The system consists of three main components: funnel-flap entry system, container with a sliding drawer, and an adjustable pole. SLFs are attracted using a natural attractant inside the container, such as the tree-of-heaven sap. SLFs enter through a funnel that open under small applied force, but mesh together to prevent an SLF from exiting. The base of the container is designed so that it could hold tree-of-heaven sap and is removable for easy emptying and refilling without disassembly. The drawer rolls on wheels rather than drawer rails, making reinsertion simple and reducing the need for precise alignment. The trap is mounted on an extendable pole composed of two telescoping steel rails. The height can be adjusted and secured using two bolts and nuts through aligned holes, allowing the trap to be positioned between 6 ~ 9 feet for different vineyard conditions. 
 
+![Prototype pictures]({{ "/assets/images/Screenshot-2.png" | relative_url }}){:  style="width: 500px"}
+![Component list]({{ "/assets/images/Screenshot-4.png" | relative_url }}){:  style="width: 600px"}
+
 ### Conclusion and Recommendation: 
 From our testing, we concluded that the prototype successfully demonstrates the key mechanical functions required for SLF capture and containment. 
 The funnel-flap system opens at approximately 0.05 N, allowing entry while preventing escape.
@@ -176,18 +183,15 @@ The drawer supports up to 12 kg and operates smoothly under load.
 All components function both individually and as an integrated system, indicating that the design is mechanically viable. However, further development is needed before field testing, particularly to improve usability, durability, and environmental performance. One limitation is the pole design, which requires insertion into deep ground for stability, making large-scale installation labor-intensive. Future iterations should improve stability through enhanced anchoring methods, such as screw-in ground anchors or wider base supports. The funnel-flap system is effective, but it requires manual removal from the container before readjusting and reinserting. Additionally, the current design does not account for rainy conditions, nor debris entering the funnel. A further iteration should address this by adding a protective cover, similar to a chimney cap, above the funnel. 
 
 ### Testing and Results: 
-Test: We placed the extended pole with the trap about 1ft into a bucket with loose soil and shook it to test its stability and durability when subjected to harsh winds. 
-Result: We found burying the pole 1ft deep was relatively unstable, it should be buried deeper or otherwise reinforced moving forward. 
-Test: We determined the max load case of the drawer would be 5.4kg (when it is half full of tree-of-heaven sap (≈ 1 g/cm3 ) and half full of SLFs). We placed 5.4kg in the drawer and took it in and out of the trap 10 times to ensure it would operate smoothly. 
-Result: The drawer operated smoothly in the max load case with no observed deformation.
-Test: To test the funnel, we made a rough model of an SLF of similar size and weight (2.5 by 2 by 1 cm and 0.5 g) out of light wood and attached string to both sides of it. We used a spring scale to measure the force it took to pull our model through the funnel with different funnel configurations. Then, we attempted to pull the lanternfly back up through the funnel to test that a lanternfly would hit the flaps and be unable to escape.
-Results: We found that the optimal tested funnel configuration took 0.05N of downward pulling force to open, and that once inside, our model lanternfly was blocked and could not be pulled out. This is greater than the weight of an SLF, and a real SLF however is likely unable to produce this much force. This implies we should replace our rubber band with a thinner rubber band or remove the rubber band entirely.
+* Test: We placed the extended pole with the trap about 1ft into a bucket with loose soil and shook it to test its stability and durability when subjected to harsh winds. 
+    - Result: We found burying the pole 1ft deep was relatively unstable, it should be buried deeper or otherwise reinforced moving forward. 
+* Test: We determined the max load case of the drawer would be 5.4kg (when it is half full of tree-of-heaven sap (≈ 1 g/cm3 ) and half full of SLFs). We placed 5.4kg in the drawer and took it in and out of the trap 10 times to ensure it would operate smoothly. 
+    - Result: The drawer operated smoothly in the max load case with no observed deformation.
+* Test: To test the funnel, we made a rough model of an SLF of similar size and weight (2.5 by 2 by 1 cm and 0.5 g) out of light wood and attached string to both sides of it. We used a spring scale to measure the force it took to pull our model through the funnel with different funnel configurations. Then, we attempted to pull the lanternfly back up through the funnel to test that a lanternfly would hit the flaps and be unable to escape.
+    - Results: We found that the optimal tested funnel configuration took 0.05N of downward pulling force to open, and that once inside, our model lanternfly was blocked and could not be pulled out. This is greater than the weight of an SLF, and a real SLF however is likely unable to produce this much force. This implies we should replace our rubber band with a thinner rubber band or remove the rubber band entirely.
 
 ### Prototype Details:
 The container includes a sliding drawer supported by four wheels, allowing it to be removed and emptied without disassembling the system, which is important for repeated use during harvest. L-brackets are used to prevent unintended removal and to mount the container securely to the extendable pole. The container housing was laser cut from acrylic sheets and assembled using brackets and adhesive, while the drawer was 3D printed as a single PLA component for improved durability. The funnel is an octagonal one-way valve made of eight adjustable flaps connected by peg-and-hole joints. These flaps were 3D printed, and a rubber band provides a restoring force to close them after entry, while a rigid hard stop limits overextension. The flap length can be adjusted to change the opening size and stiffness. The extendable pole consists of two telescoping steel tubes, secured with fasteners through aligned holes to allow adjustable height. 
-Drawer: Supports up to 12 kg, smooth operation without jamming.
-Funnel: Geometry enables entry while preventing exit; stiffness must be tuned 
-Extendable Pole: Adjustable, supports 14.25kg, stable when properly embedded
 
 ### Bill of Materials
 
@@ -206,3 +210,11 @@ Extendable Pole: Adjustable, supports 14.25kg, stable when properly embedded
 | Machine Shop time | NA | 1 | Hour | $5.00 |
 | 3D Printing costs ($0.05/g) | NA | 739 | Gram | $36.95 |
 | **Total budget used** |  |  |  | **$294.65** |
+
+---
+
+---
+
+## Poster
+
+[Poster PDF]({{ "BenSedranResume.pdf" | relative_url }})
