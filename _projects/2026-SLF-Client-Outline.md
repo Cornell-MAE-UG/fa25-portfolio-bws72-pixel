@@ -3,12 +3,17 @@ layout: project
 title: SLF Project
 description: Client Outline of SLF trap project
 technologies: []
-image: /assets/images/SLF.jpg
 ---
+
+![SLF and grapes]({{ "/assets/images/SLF.jpg" | relative_url }}){:  style="width: 700px"}
 
 # Sections:
 * Link to client pitch: [Client pitch](#client-pitch)
 * Link to functional prototype: [Functional Prototype](#functional-prototype)
+
+---
+
+---
 
 ## Client Pitch
 ##### As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
@@ -50,6 +55,9 @@ A trap that SLFs can just barely enter that can hold sap and scents to bait the 
 ### References: 
 Caitlin Hayes, Cornell Chronicle, and 2025 January 27. “Spotted Lanternflies Could Cost Nys Grape Industry Millions.” Cornell Chronicle, Cornell University, 27 Jan. 2025, news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions. 
 
+---
+
+---
 
 ## Functional Prototype:
 
