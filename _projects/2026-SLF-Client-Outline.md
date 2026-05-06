@@ -8,7 +8,6 @@ description: MAE 2250 Design Project
 
 As part of a semester long project for MAE 2250 (Intro to Mechanical Design), my group and I worked on a prototype aimed to combat the invasive spotted lanterfly infecting vineyards across New York. We made a pitch to potential clients, built a rough functional prototype, and built and tested a second prototype design. We presented our prototype with a poster of our design and results in an exhibition in the Cornell Duffield Engineering Atrium. To document our second prototype and testing, we wrote a client report on with our conclusions and prototype details. Each of these 3 are linked below. 
 
-## Sections:
 * Link to client pitch: [Client pitch](#client-pitch)
 * Link to functional prototype: [Functional Prototype](#functional-prototype)
 * Link to client report: [Client Report](#client-report)
@@ -19,7 +18,7 @@ As part of a semester long project for MAE 2250 (Intro to Mechanical Design), my
 ---
 
 ## Client Pitch
-##### As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
+As part of a semester long design project, this was a pitch to members of the NY grape industry with questions and proposed directions to help combat the invasive Spotted LanternFly.
 
 ### The Spotted Lantern Fly Epidemic
 Client(s): Cornell CALS Extension / E&J Gallo Winery / National Grape
@@ -173,8 +172,8 @@ Vineyards across the United States are impacted by spotted lantern fly (SLF) inf
 ### Final Prototype and Application: 
 Our final prototype is a low-cost mechanical trap designed to attract, capture, and contain SLFs away from grapevines during the harvest window. The system consists of three main components: funnel-flap entry system, container with a sliding drawer, and an adjustable pole. SLFs are attracted using a natural attractant inside the container, such as the tree-of-heaven sap. SLFs enter through a funnel that open under small applied force, but mesh together to prevent an SLF from exiting. The base of the container is designed so that it could hold tree-of-heaven sap and is removable for easy emptying and refilling without disassembly. The drawer rolls on wheels rather than drawer rails, making reinsertion simple and reducing the need for precise alignment. The trap is mounted on an extendable pole composed of two telescoping steel rails. The height can be adjusted and secured using two bolts and nuts through aligned holes, allowing the trap to be positioned between 6 ~ 9 feet for different vineyard conditions. 
 
-![Prototype pictures]({{ "/assets/images/Screenshot-2.png" | relative_url }}){:  style="width: 500px"}
-![Component list]({{ "/assets/images/Screenshot-4.png" | relative_url }}){:  style="width: 600px"}
+![Prototype pictures]({{ "/assets/images/Screenshot-2.png" | relative_url }}){:  style="width: 700px"}
+![Component list]({{ "/assets/images/Screenshot-4.png" | relative_url }}){:  style="width: 700px"}
 
 ### Conclusion and Recommendation: 
 From our testing, we concluded that the prototype successfully demonstrates the key mechanical functions required for SLF capture and containment. 
