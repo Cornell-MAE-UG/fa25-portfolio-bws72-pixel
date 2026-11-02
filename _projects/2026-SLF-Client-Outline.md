@@ -2,6 +2,7 @@
 layout: project
 title: SLF Project
 description: MAE 2250 Design Project
+image: /assets/images/SLF.jpg
 ---
 
 ![SLF and grapes]({{ "/assets/images/SLF.jpg" | relative_url }}){:  style="width: 500px"}
